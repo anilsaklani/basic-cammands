@@ -1,2 +1,2 @@
-# basic-cammands
+# basic-cammands -Added git basic commands
 #git-clone
